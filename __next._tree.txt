@@ -1,0 +1,8 @@
+:HL["/eko-dalmacija-v3/_next/static/chunks/31i7ihnh91lfe.css","style"]
+:HL["/eko-dalmacija-v3/_next/static/media/2b7d3311b69a4dca-s.p.1elj1f4z6aq4a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eko-dalmacija-v3/_next/static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eko-dalmacija-v3/_next/static/media/8d05cfa5faa8406c-s.p.1s123piy9_v1m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eko-dalmacija-v3/_next/static/media/d38f3bca7db33566-s.p.0op912u62qdhl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eko-dalmacija-v3/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?auto=format&fit=crop&w=480&q=78","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cXkG_ChmP3oDoJIV79kI_"}
