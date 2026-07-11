@@ -1,0 +1,87 @@
+/* Design Tokens - Auto-generated */
+/* Do not edit directly - modify tokens.json instead */
+
+/* === PRIMITIVES === */
+:root {
+  --primitive-color-paper-50: #FBF5E7;
+  --primitive-color-paper-100: #F1E4C7;
+  --primitive-color-paper-200: #E6D3A9;
+  --primitive-color-crate-300: #C89A61;
+  --primitive-color-crate-500: #9C6B3F;
+  --primitive-color-crate-700: #6B4A2E;
+  --primitive-color-crate-900: #33251A;
+  --primitive-color-olive-400: #828F5C;
+  --primitive-color-olive-600: #57623B;
+  --primitive-color-paprika-500: #C1440E;
+  --primitive-color-paprika-700: #8A2F09;
+  --primitive-color-ink-500: #6E5F49;
+  --primitive-color-ink-900: #2A2117;
+  --primitive-font-display: var(--font-newsreader), 'Newsreader', Georgia, serif;
+  --primitive-font-sans: var(--font-work-sans), system-ui, sans-serif;
+  --primitive-font-mono: var(--font-space-mono), 'SF Mono', monospace;
+  --primitive-motion-duration-micro: 180ms;
+  --primitive-motion-duration-base: 320ms;
+  --primitive-motion-duration-reveal: 1s;
+  --primitive-motion-duration-settle: 1.6s;
+  --primitive-motion-ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --primitive-motion-ease-crate-drop: cubic-bezier(0.34, 1.26, 0.64, 1);
+  --primitive-tracking-display: -0.01em;
+  --primitive-tracking-label: 0.18em;
+}
+
+/* === SEMANTIC === */
+:root {
+  --background: #FBF5E7;
+  --foreground: #2A2117;
+  --card: #F1E4C7;
+  --card-foreground: #2A2117;
+  --popover: #F1E4C7;
+  --popover-foreground: #2A2117;
+  --primary: #33251A;
+  --primary-foreground: #FBF5E7;
+  --secondary: #57623B;
+  --secondary-foreground: #FBF5E7;
+  --muted: #F1E4C7;
+  --muted-foreground: #6E5F49;
+  --accent: #C1440E;
+  --accent-foreground: #FBF5E7;
+  --destructive: #8A2F09;
+  --border: #6B4A2E;
+  --input: #F1E4C7;
+  --ring: #C1440E;
+  --radius: 0.4rem;
+  --paprika: #C1440E;
+  --paprika-dim: #8A2F09;
+  --olive: #57623B;
+  --wood: #6B4A2E;
+  --wood-dark: #33251A;
+  --wood-light: #C89A61;
+  --surface-line: #9C6B3F;
+  --type-display: var(--font-newsreader), 'Newsreader', Georgia, serif;
+  --type-body: var(--font-work-sans), system-ui, sans-serif;
+  --type-label: var(--font-space-mono), 'SF Mono', monospace;
+  --ease-reveal: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-crate: cubic-bezier(0.34, 1.26, 0.64, 1);
+  --duration-micro: 180ms;
+  --duration-base: 320ms;
+  --duration-reveal: 1s;
+  --tracking-display: -0.01em;
+  --tracking-label: 0.18em;
+}
+
+/* === COMPONENTS === */
+:root {
+  --hero-title-size: clamp(2.75rem, 8vw, 6.5rem);
+  --hero-title-leading: 1.02;
+  --hero-kicker-size: 0.72rem;
+  --crate-shadow: 0 18px 30px -14px rgba(42, 33, 23, 0.45), 0 2px 0 rgba(51, 37, 26, 0.5);
+  --crate-slat-gradient: repeating-linear-gradient(180deg, rgba(51,37,26,0.08) 0px, rgba(51,37,26,0.08) 2px, transparent 2px, transparent 22px);
+  --crate-label-bg: #FBF5E7;
+  --crate-brace: #33251A;
+  --button-primary-bg: #33251A;
+  --button-primary-fg: #FBF5E7;
+  --button-primary-hover-bg: #C1440E;
+  --button-primary-hover-fg: #FBF5E7;
+  --button-ghost-border: #6B4A2E;
+  --button-ghost-hover-border: #C1440E;
+}
